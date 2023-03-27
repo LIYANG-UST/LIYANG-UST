@@ -10,7 +10,6 @@
 - 🔥 Web3 should be the future and will be the future
 - 🌱 [CypherPunk-Manifesto](https://github.com/LIYANG-UST/CypherPunk-Manifesto)
 
- ◌⑅⃝●♡⋆♡⃝ ˻˳˯ₑ♡⃝⋆●♡⑅⃝◌
 
 ### ✔️ I'm working on:
 - DApp & Smart Contract Development (solidity, move, rust)
@@ -18,12 +17,10 @@
 - Dev Tools for Smart Contract
 - Web3 Education
 
-### 😍 I like to:
-- Basketball
-- Swimming
+### 😍 I like:
+- All Sports
 - Dota2
 - Karaoke
 - Delicious Food
 
-
-
+(⋆•́◡•̀)(•́◡•̀๑) GM & GN, Friends.
