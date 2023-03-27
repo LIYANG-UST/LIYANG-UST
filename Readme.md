@@ -3,21 +3,27 @@
 
 
 
-### I'm LI Yang
+### I'm LI Yang (Eric) 
 
-- A PhD student in HKUST(GZ)
-- 🌱 Currently in Hong Kong
+- PhD in IIP(AI), HKUST
+- 🌱 HongKong / HangZhou
+- 🔥 Web3 should be the future and will be the future.
+- CypherPunk 
 
+ ◌⑅⃝●♡⋆♡⃝ ˻˳˯ₑ♡⃝⋆●♡⑅⃝◌
 
-### ✔️ I'm currently learning
-- Solidity (EVM Smart Contracts)
-- Brownie (Python-based development and testing framework for smart contracts) 
-- Vue3 (Frontend)
+### ✔️ I'm working on:
+- DApp & Smart Contract Development (solidity, move, rust)
+- Backend & Data Service for Web3 Development
+- Dev Tools for Smart Contract
+- Web3 Education
 
-### 😍 What i like to do:
+### 😍 I like to:
 - Basketball
 - Swimming
 - Dota2
+- Karaoke
+- Delicious Food
 
 
 
