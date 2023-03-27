@@ -3,12 +3,12 @@
 
 
 
-### I'm LI Yang (Eric) 
+### 🫥 I'm LI Yang (Eric) 
 
 - PhD in IIP(AI), HKUST
-- 🌱 HongKong / HangZhou
-- 🔥 Web3 should be the future and will be the future.
-- CypherPunk 
+- 🌏 HongKong / HangZhou
+- 🔥 Web3 should be the future and will be the future
+- 🌱 [CypherPunk-Manifesto](https://github.com/LIYANG-UST/CypherPunk-Manifesto)
 
  ◌⑅⃝●♡⋆♡⃝ ˻˳˯ₑ♡⃝⋆●♡⑅⃝◌
 
