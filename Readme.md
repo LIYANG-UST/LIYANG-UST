@@ -12,7 +12,7 @@
 
 
 ### ✔️ I'm working on:
-- DApp & Smart Contract Development (solidity, move, rust)
+- Smart Contract Development 
 - Backend & Data Service for Web3 Development
 - Dev Tools for Smart Contract
 - Web3 Education
